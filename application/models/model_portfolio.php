@@ -23,41 +23,23 @@ class Model_Portfolio extends Model
 			),
 
 			array(
-				'Year' => '2012',
-				'Site' => 'http://GeekWear.ru',
-				'Description' => 'Интернет-магазин брендовой одежды для гиков.'
+				'Year' => '2020',
+				'Site' => 'http://strava.com',
+				'Description' => 'Strava is an American internet service for tracking human exercise which incorporates social network features. It is mostly used for cycling and running using GPS data.[4] Strava uses a freemium model with some features only available in the paid subscription plan (formerly called Strava Premium and then Strava Summit).'
 			),
 
 			array(
-				'Year' => '2011',
-				'Site' => 'http://РоналВарвар.рф',
-				'Description' => 'Промо-сайт мультфильма "Ронал-варвар" от норвежских режиссеров. Мультфильм о самом нетипичном варваре на Земле, переполненный интересными приключениями и забавными ситуациями.'
+				'Year' => '2020',
+				'Site' => 'http://cambly.com	',
+				'Description' => 'Cambly is an online platform founded in 2020 that provides on-demand access to tutors via video chat. Cambly tutors are native speakers from the United States, Canada, UK and Australia, etc. The platform allows users to connect with the suitable tutor in under 5 seconds. Users can then practise English conversation, take an English course, or prepare for the IELTS or TOEFL exams.
+				'
 			),
 
 			array(
-				'Year' => '2011',
-				'Site' => 'http://TompsonTatoo.ru',
-				'Description' => 'Персональный сайт-блог художника-татуировщика Алексея Томпсона из Санкт-Петербурга.'
+				'Year' => '2020',
+				'Site' => 'https://bsemoto.pro',
+				'Description' => 'Bovine spongiform encephalopathy (BSE), commonly known as mad cow disease, is an incurable and invariably fatal neurodegenerative disease of cattle.[2] Symptoms include abnormal behavior, trouble walking, and weight loss.[1] Later in the course of the disease the cow becomes unable to function normally.[1] The time between infection and onset of symptoms is generally four to five years.[2] Time from onset of symptoms to death is generally weeks to months.[2] Spread to humans is believed to result in variant Creutzfeldt–Jakob disease (vCJD).[3] As of 2018, a total of 231 cases of vCJD had been reported globally.[5]'
 			),
-
-			array(
-				'Year' => '2011',
-				'Site' => 'http://DaftState.ru',
-				'Description' => 'Страничка музыкальных и сануд продюсеров из команды "DaftState", работающих в стилях BreakBeat и BigBeat.'
-			),
-
-			array(
-				'Year' => '2011',
-				'Site' => 'http://TiltPeople.ru',
-				'Description' => 'Сайт сообщества фотографов в стиле Tilt Shif.'
-			),
-
-			array(
-				'Year' => '2011',
-				'Site' => 'http://AbsurdGames.ru',
-				'Description' => 'Страничка российской команды разработчиков независимых игр с необычной физикой и сюрреалистической графикой.'
-			),
-
 		);
 	}
 
